@@ -30,10 +30,6 @@ func init() {
 	// 	logErr.Fatal("GOOGLE_APPLICATION_CREDENTIALS not exist")
 	// }
 
-	// version, err := ioutil.ReadFile("./VERSION")
-	// if err != nil {
-	// 	logErr.Fatalf("[init] read version err:%v", err)
-	// }
 }
 
 func main() {
